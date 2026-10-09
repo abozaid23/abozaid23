@@ -14,7 +14,7 @@ FastAPI + Flutter + React. Offline-first capture for mechanics with no signal, t
 **[Fuel Guardian](https://github.com/abozaid23/fuel-guardian)** — fuel anti-theft reconciliation. *(paused)*
 TypeScript monorepo: API, Arabic-first admin console, a Modbus/RS-485 edge poller and a device simulator. Reconciles litres dispensed against distance and tank stock. 435 test cases. Tested against the simulator only, not real pumps yet.
 
-**[Clinic Management System](https://github.com/abozaid23/clinic-management-system)** — Java Swing + PostgreSQL, five-person team (CSCI 217).
+**[Clinic Management System](https://github.com/abozaid23/clinic-management-system)** — Java Swing + PostgreSQL, six-person team (CSCI 217).
 Appointments with conflict detection, an interface-based service layer, and every query parameterised.
 
 **[Campus Navigation](https://github.com/abozaid23/campus-navigation-system)** — graph representations and BFS in Python (Discrete Mathematics, two-person team).
