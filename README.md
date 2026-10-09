@@ -11,7 +11,7 @@ I grew up in a real-estate development company and still supervise site crews an
 **[SharpMaintain](https://github.com/abozaid23/sharpmaintain)** — multi-tenant fleet maintenance system.
 FastAPI + Flutter + React. Offline-first capture for mechanics with no signal, tenant isolation from the first commit, bilingual AR/EN with real RTL. 282 backend tests, including a tenant-isolation audit across every route, and a security audit that found and fixed cross-tenant escalation and CSV formula injection.
 
-**[Fuel Guardian](https://github.com/abozaid23/fuel-guardian)** — fuel anti-theft reconciliation. *(in progress)*
+**[Fuel Guardian](https://github.com/abozaid23/fuel-guardian)** — fuel anti-theft reconciliation. *(paused)*
 TypeScript monorepo: API, Arabic-first admin console, a Modbus/RS-485 edge poller and a device simulator. Reconciles litres dispensed against distance and tank stock. 435 test cases. Tested against the simulator only, not real pumps yet.
 
 **[Clinic Management System](https://github.com/abozaid23/clinic-management-system)** — Java Swing + PostgreSQL, five-person team (CSCI 217).
